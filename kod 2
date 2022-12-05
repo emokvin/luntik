@@ -1,0 +1,14 @@
+import time
+while True:
+    print("/")
+    time.sleep(0.2)
+    print("_")
+    time.sleep(0.2)
+    print("\ ")
+    time.sleep(0.2)
+    print("|")
+    time.sleep(0.2)
+    print("/")
+    time.sleep(0.2)
+    print("-")
+    time.sleep(0.2)
